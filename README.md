@@ -1,3 +1,8 @@
+Обновил! Добавил приложение при котором возможно скрыть данные CMD 
+ссылка на официальный файл - https://github.com/sandwichdoge/MinimizeToTray/releases/ 
+Запустите файл от имени админа! затем откройте файл Start winws (preset_russia+discord) 
+Затем 1 cmd и нажмите alt + f1 и так же со второй и они скроются!
+
 
 Основано на репозитории: https://github.com/bol-van/zapret/
 
